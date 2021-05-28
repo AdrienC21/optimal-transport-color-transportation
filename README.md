@@ -67,14 +67,14 @@ Run run_optimal_transport.py to apply transport optimal algorithms.
 
 ## Bibliography
 
-[1] Cohen Scott : Finding color and shape patterns in images, Thèse, InfoLab Stanford, Chapitre 4, Mai 1999
-[2] Gabriel Peyré : Le transport optimal: de Gaspard Monge à la science des données,Conférence, 2018
-[3] Ferradans, S., Papadakis, N., Peyre, G., & Aujol, J. F. : (2014). Regularized discrete optimal transport. SIAM Journal on Imaging Sciences, 7(3), 1853-1882
-[4] M. Perrot, N. Courty, R. Flamary, A. Habrard : "Mapping estimation for discrete optimal transport", Neural Information Processing Systems (NIPS), 2016
-[5] Gabriel Peyré : Convex Optimization, note de cours
-[6] Lindbloom Bruce : RGB/XYZ Matrices : [http://www.brucelindbloom.com/index.html?Eqn_RGB_XYZ_Matrix.html](http://www.brucelindbloom.com/index.html?Eqn_RGB_XYZ_Matrix.html), consultation : Nov 2018
-[7] Gabriel Peyré : Computational Optimal Transport, Mars 2018
-[8] Yann Brenier, Thierry Viéville : «La brouette de Monge ou le transport optimal » - Images des Mathématiques, CNRS, 2012
+[1] Cohen Scott : Finding color and shape patterns in images, Thèse, InfoLab Stanford, Chapitre 4, Mai 1999__
+[2] Gabriel Peyré : Le transport optimal: de Gaspard Monge à la science des données,Conférence, 2018__
+[3] Ferradans, S., Papadakis, N., Peyre, G., & Aujol, J. F. : (2014). Regularized discrete optimal transport. SIAM Journal on Imaging Sciences, 7(3), 1853-1882__
+[4] M. Perrot, N. Courty, R. Flamary, A. Habrard : "Mapping estimation for discrete optimal transport", Neural Information Processing Systems (NIPS), 2016__
+[5] Gabriel Peyré : Convex Optimization, note de cours__
+[6] Lindbloom Bruce : RGB/XYZ Matrices : [http://www.brucelindbloom.com/index.html?Eqn_RGB_XYZ_Matrix.html](http://www.brucelindbloom.com/index.html?Eqn_RGB_XYZ_Matrix.html), consultation : Nov 2018__
+[7] Gabriel Peyré : Computational Optimal Transport, Mars 2018__
+[8] Yann Brenier, Thierry Viéville : «La brouette de Monge ou le transport optimal » - Images des Mathématiques, CNRS, 2012__
 
 ## License
 
