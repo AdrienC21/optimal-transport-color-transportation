@@ -1,4 +1,4 @@
-# Optimal transport applied to infographics (color transportion problem)
+# Optimal transport applied to infographics (color transportation problem)
 
 Optimal transport applied to color transportation in the field of infographics / image processing.
 
